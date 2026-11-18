@@ -1,5 +1,5 @@
 # MPM_200_Delcastillo
-## Quantitative veterinary epidemiology and disease ecology lab - Hummingbirds in rehabilitation centers, CA
+## Quantitative veterinary epidemiology and disease ecology lab - Hummingbirds in California rehabilitation centers
 ==============================
 
 We look at more than 25 years of intake records (1991-2016) from three California wildlife rehabilitation centers to try to determine prognostic indicators. We look into how many birds were evaluated, what variables were evaluated, how many birds every center admitted, three variables that affect survival, proportion of birds released vs death, survival by specie,  which season has more admission per month and possible problems with our data. We also created different plots showing this information. 
